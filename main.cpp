@@ -52,37 +52,38 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Car
+//  action 1: turns left
+car.turnLeft();
+//  action 2: accelerates
+car.accelerate();
+//  action 3: displays low on fuel-warning 
+car.displayLowOnFuelWarninig(); 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Cat
+//  action 1: eats
+cat.eat();
+//  action 2: sleeps
+cat.sleep();
+//  action 3: catches a mouse
+cat.catchMouse();
  
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Plane
+//  action 1:  starts engine
+plane.startEngine();
+//  action 2: changes the height
+plane.changeHeight();
+//  action 3: changes the speed
+plane.changeSpeed(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: phone
+//  action 1: rings
+phone.ring();
+//  action 2: answers a call
+phone.answerCall();
+//  action 3: end a connection
+phone.endConnection(); 
 //  5)
 //  Noun:
 //  action 1:
