@@ -77,61 +77,61 @@ plane.changeHeight();
 //  action 3: changes the speed
 plane.changeSpeed(); 
 //  4)
-//  Noun: phone
-//  action 1: rings
-phone.ring();
-//  action 2: answers a call
-phone.answerCall();
-//  action 3: end a connection
-phone.endConnection(); 
+//  Noun: student
+//  action 1: reads instruction
+student.readInstruction();
+//  action 2: asks for help
+student.askForHelp();
+//  action 3: sends a pull request
+student.sendPullRequest(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: printer
+//  action 1: print document
+printer.printDocument();
+//  action 2: scans document
+printer.scanDocument();
+//  action 3: creates an error
+printer.createError(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: teacher
+//  action 1: teaches
+teacher.teach();
+//  action 2: answers a question
+teacher.answerQuestion();
+//  action 3: writes an assignement
+teacher.writeAssignement();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: water
+//  action 1: boils
+water.boil();
+//  action 2: freezes
+water.freeze();
+//  action 3: makes things wet
+water.makeWet(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: child
+//  action 1: plays
+child.play();
+//  action 2: laughs
+child.laugh();
+//  action 3: cries
+child.cry(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: calculator
+//  action 1: multiply
+calculator.multiply();
+//  action 2: subtract
+calculator.subtract();
+//  action 3: add
+calculator.add();
+//  10) 
+//  Noun: daw
+//  action 1: records audio
+daw.recordAudio();
+//  action 2: plays audio
+daw.playAudio();
+//  action 3: displays an error message
+daw.displayErrorMessage(); 
 
 
 #endif
