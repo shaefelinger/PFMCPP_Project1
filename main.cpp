@@ -117,13 +117,13 @@ child.laugh();
 //  action 3: cries
 child.cry(); 
 //  9)
-//  Noun: calculator
-//  action 1: multiply
-calculator.multiply();
-//  action 2: subtract
-calculator.subtract();
-//  action 3: add
-calculator.add();
+//  Noun: motor boat
+//  action 1: start engine
+motorBoat.startEngine();
+//  action 2: turn right
+motorBoat.turnRight();
+//  action 3: drop anchor
+motorBoat.dropAnchor();
 //  10) 
 //  Noun: daw
 //  action 1: records audio
